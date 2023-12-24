@@ -124,7 +124,8 @@ else:
 ```
 ## Sample Input and Output :
 # Linear search method to match the item in a list.
-![Alt text](<linear search 1 output.png>)
+![linear search 1 output](https://github.com/tamizhselvan23013460/Search-Algorithm/assets/150231370/e4981b94-5278-440a-9b6b-f18bb471c05b)
+
 # Element in a list using Binary Search(Iterative Method).
 ![Alt text](<linear search output 2.png>)
 # Element in a list using Binary Search (recursive Method).
