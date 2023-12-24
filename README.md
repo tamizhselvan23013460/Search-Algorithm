@@ -50,8 +50,9 @@ insertion_sort(list_of_nums)
 ```
 
 ## Output:
-Output![Alt text](<output 1.png>)
-Output![](<output 2.png>)
+![output 1](https://github.com/tamizhselvan23013460/Search-Algorithm/assets/150231370/4a9ea419-1e28-452f-b33c-5f0378499f78)
+![output 2](https://github.com/tamizhselvan23013460/Search-Algorithm/assets/150231370/303b8c18-422e-4c87-b680-9d67dcd818d1)
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
